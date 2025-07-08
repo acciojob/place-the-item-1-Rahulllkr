@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+.holder{
+	height:100%;
+	width:100%;
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:pre-wrap;
+}
+.first{
+	height:150px;
+	width:150px;
+	background-color:red;
+	font-size:3rem;
+}
+
+.second{
+	height:150px;
+	width:150px;
+	background-color:blue;
+	font-size:3rem;
+}
+
+.third{
+	height:150px;
+	width:150px;
+	background-color:green;
+	font-size:3rem;
+}
