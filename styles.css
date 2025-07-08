@@ -5,7 +5,7 @@
 	width:100%;
 	display:flex;
 	justify-content:space-between;
-	flex-wrap:pre-wrap;
+	flex-wrap:wrap;
 }
 .first{
 	height:150px;
